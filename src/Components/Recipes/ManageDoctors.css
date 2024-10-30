@@ -1,0 +1,14 @@
+/* src/Components/Doctors/ManageDoctors.css */
+
+.doctor-management {
+    padding: 20px;
+}
+
+.doctor-management h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.p-button-success {
+    margin-bottom: 10px;
+}

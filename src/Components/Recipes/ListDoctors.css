@@ -1,0 +1,19 @@
+/* src/Components/Doctors/ListDoctors.css */
+
+.doctor-table {
+    padding: 20px;
+}
+
+.doctor-table h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.p-button-info {
+    background-color: #007bff;
+    color: white;
+}
+
+.p-button-info:hover {
+    background-color: #0056b3;
+}

@@ -1,0 +1,19 @@
+/* src/styles/navbar.css */
+
+nav {
+    background-color: #f0f0f0; /* Color de fondo */
+    padding: 1rem; /* Espaciado */
+    display: flex; /* Usar flexbox para alinear elementos */
+    justify-content: space-between; /* Espaciar elementos */
+    align-items: center; /* Centrar verticalmente */
+}
+
+ul {
+    list-style: none; /* Quitar el estilo de lista */
+    display: flex; /* Usar flexbox para los elementos de la lista */
+    gap: 1rem; /* Espacio entre elementos de la lista */
+}
+
+li {
+    display: inline; /* Mostrar elementos de la lista en línea */
+}
